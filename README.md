@@ -2,7 +2,9 @@
 
 **Software Developer** | **Full Stack Developer** | **Innovative Problem Solver**
 
-![bannerd](https://github.com/user-attachments/assets/83ea8b83-82c3-4673-b4f3-8ac36c9acb6d)
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/643ea111-447f-4bff-aaaf-6cfac15aec45)
+
+
 
 
 ## About Me 🧑‍💻
