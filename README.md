@@ -40,21 +40,6 @@ May 2024 - Present
 - Gained proficiency in using RESTful APIs, MongoDB, and deployment best practices.
 
 ---
-
-## 🌟 Projects
-
-### 🏢 Real Estate Management System
-An all-in-one solution to manage properties, transactions, and listings with seamless property search, user interaction, and communication channels.  
-- **Technologies**: Node.js, React.js, MongoDB, Express.js, JavaScript, Bootstrap, HTML, CSS  
-- Integrated **Google Geolocation API** and **Razorpay Payment Gateway** for enhanced functionality.  
-
-### 🚍 TRACE: Comprehensive Private Bus Services and Online Ticketing Solution
-An innovative project to transform bus tracking through online ticketing and transportation choice enhancements.  
-- **Technologies**: Node.js, React.js, Express.js, MongoDB, JavaScript, Bootstrap, HTML, CSS  
-- Implemented **Google Geolocation API** and **Razorpay Payment Gateway**.
-
----
-
 ## 🎓 Education
 - **Master's in Computer Science**  
   A.J. College of Science and Technology (University of Kerala)  
@@ -64,7 +49,6 @@ An innovative project to transform bus tracking through online ticketing and tra
   A.J. College of Science and Technology (University of Kerala)  
   *2021 - 2024*  
   CGPA: 7.9
-
 ---
 
 ## 📫 Let's Connect
