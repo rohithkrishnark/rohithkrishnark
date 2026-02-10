@@ -10,7 +10,7 @@
 ## About Me 🧑‍💻
 I'm a passionate software developer with a strong background in **Full Stack Development**. I hold a Bachelor's degree in Computer Science and am currently pursuing my Master's degree. I thrive on building impactful applications using modern technologies and enjoy learning new skills to expand my technical repertoire.
 
-- 🔭 **Currently working at**: Logiprompt Techno Solutions India Pvt Ltd.
+- 🔭 **Currently working at**: Travancore Medicity.
 - 🌱 **Focused on**: MERN stack development and cutting-edge web technologies.
 - 💡 **Aspiration**: To contribute to innovative software projects that make a meaningful impact.
 - 💬 **Ask me about**: Front-end and back-end development, JavaScript frameworks, and project architecture.
